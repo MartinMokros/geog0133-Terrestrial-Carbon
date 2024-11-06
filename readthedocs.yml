@@ -27,4 +27,4 @@ python:
   install:
   - requirements: requirements.txt
 conda:
-  environment: small_environment.yml
+  environment: docs/small_environment.yml
